@@ -6,7 +6,7 @@
  *  https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
  *  
  *  Name: Hamzeh Muhiar | Student ID: 158248237 | Date: 02/03/2025
- *  Published URL: ___________________________________________________________
+ *  Published URL: https://listings-api-omega.vercel.app
  ********************************************************************************/
 
 require("dotenv").config();
